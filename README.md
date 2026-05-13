@@ -17,15 +17,16 @@ and helps your group decide where to go together, in 30 seconds.
 
 <p>
   <a href="https://apps.apple.com/fr/app/dishrank/id6761752556">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="50">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.dishrank.app">
-    <img src="./assets/google-play-badge.png" alt="Get it on Google Play" height="50">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"
+         alt="Download on the App Store" width="200">
   </a>
 </p>
-
-[![App Store](https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/fr/app/dishrank/id6761752556)
-[![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dishrank.app)
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.dishrank.app">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+         alt="Get it on Google Play" width="226">
+  </a>
+</p>
 
 🌐 [dishrank.fr](https://dishrank.fr) · 📸 [@dishrank.app](https://www.instagram.com/dishrank.app)
 
@@ -51,3 +52,6 @@ and helps your group decide where to go together, in 30 seconds.
 ## 📫 Let's connect
 
 [Portfolio](https://gregoire-raturat.fr) · [LinkedIn](https://www.linkedin.com/in/grégoire-raturat-b671091aa/) · [contact@dishrank.fr](mailto:contact@dishrank.fr)
+
+[![App Store](https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/fr/app/dishrank/id6761752556)
+[![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dishrank.app)
