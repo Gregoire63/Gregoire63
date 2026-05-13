@@ -15,17 +15,9 @@ A food app that rates **dishes**, not restaurants.
 DishRank ranks every dish independently, so you know exactly what to order —
 and helps your group decide where to go together, in 30 seconds.
 
-<p>
-  <a href="https://apps.apple.com/fr/app/dishrank/id6761752556">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"
-         alt="Download on the App Store" height="40">
-  </a>
-   
-  <a href="https://play.google.com/store/apps/details?id=com.dishrank.app">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
-         alt="Get it on Google Play" height="40">
-  </a>
-</p>
+<p><a href="https://apps.apple.com/fr/app/dishrank/id6761752556"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="40"></a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.dishrank.app"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="40"></a></p>
 
 🌐 [dishrank.fr](https://dishrank.fr) · 📸 [@dishrank.app](https://www.instagram.com/dishrank.app)
 
