@@ -18,13 +18,12 @@ and helps your group decide where to go together, in 30 seconds.
 <p>
   <a href="https://apps.apple.com/fr/app/dishrank/id6761752556">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"
-         alt="Download on the App Store" width="200">
+         alt="Download on the App Store" height="40">
   </a>
-</p>
-<p>
+  &nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.dishrank.app">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-         alt="Get it on Google Play" width="226">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+         alt="Get it on Google Play" height="40">
   </a>
 </p>
 
